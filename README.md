@@ -1,4 +1,3 @@
-# LocalRAG-Agent
 # Local AI Agent using Ollama, LangChain, ChromaDB & RAG
 
 This project implements a **Local AI agent** that runs entirely on a personal machine using open-source tools.
